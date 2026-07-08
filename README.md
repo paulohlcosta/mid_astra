@@ -5,3 +5,4 @@ Com um Arduino e algum circuito eletrônico, estou trabalhando numa alternativa 
 
 [NotebookLM do estudo:](https://notebooklm.google.com/notebook/e0c29d24-7539-4ca7-bbeb-1d556da1ff12)
 
+Melhor referência que encontrei até o momento: <https://github.com/fire1/ArduinoMid>
